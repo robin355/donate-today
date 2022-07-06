@@ -108,3 +108,29 @@ h5 {
     padding: 20px 40px;
     margin: 30px;
 }
+
+.sub-btn {
+    color: white;
+    padding: 10px 20px;
+    background-color: tomato;
+    border: none;
+    border-radius: 5px;
+}
+
+.text-input {
+    color: gray;
+    background-color: gainsboro;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.input-area {
+    width: 600px;
+    background-color: bisque;
+    padding: 50px 60px 50px 100px;
+    margin-left: 260px;
+    margin-bottom: 50px;
+    border: none;
+}
