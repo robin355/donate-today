@@ -131,6 +131,22 @@ h5 {
     background-color: bisque;
     padding: 50px 60px 50px 100px;
     margin-left: 260px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     border: none;
+}
+
+.footer-area {
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+}
+
+#text-nav {
+    color: tomato;
+}
+
+#text-para {
+    color: white;
 }
