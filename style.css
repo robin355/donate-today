@@ -16,7 +16,8 @@ body {
     height: 600px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/donation0.jpg);
     background-size: cover;
-    padding-bottom: 50px;
+    margin-bottom: 30px;
+
 }
 
 .header-text {
@@ -46,7 +47,8 @@ body {
 }
 
 .donate-today {
-    padding-bottom: 30px;
+    margin-bottom: 50px;
+    padding-top: 30px;
 }
 
 .box-taka {
@@ -81,4 +83,28 @@ h5 {
 .Amound {
     text-align: center;
     padding-bottom: 50px;
+}
+
+.family-plan {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#food {
+    background-color: antiquewhite;
+    padding: 20px 40px;
+    margin: 30px;
+}
+
+#shelter {
+    background-color: aquamarine;
+    padding: 20px 40px;
+    margin: 30px;
+}
+
+#education {
+    background-color: cornflowerblue;
+    padding: 20px 40px;
+    margin: 30px;
 }
