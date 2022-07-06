@@ -115,7 +115,8 @@ h5 {
     padding: 10px 20px;
     background-color: tomato;
     border: none;
-    border-radius: 5px;
+    border-radius: 3px;
+    margin-left: -8px;
 }
 
 .text-input {
@@ -124,6 +125,7 @@ h5 {
     padding: 10px 20px;
     border-radius: 5px;
     border: none;
+
 
 }
 
