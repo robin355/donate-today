@@ -16,7 +16,7 @@ body {
     height: 600px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/donation0.jpg);
     background-size: cover;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 .header-text {
@@ -32,6 +32,7 @@ body {
     border-radius: 5px;
     color: white;
     border: none;
+    padding-top: 20px;
 }
 
 .donate {
@@ -39,6 +40,7 @@ body {
 }
 
 .text-padding {
+    text-align: center;
     margin-left: 250px;
     margin-right: 100px;
 }
@@ -66,4 +68,17 @@ body {
     background-color: tomato;
     border: 5px solid tomato;
     border-radius: 5px;
+}
+
+h5 {
+    text-align: center;
+}
+
+.other-amound {
+    padding-bottom: 20px;
+}
+
+.Amound {
+    text-align: center;
+    padding-bottom: 50px;
 }
