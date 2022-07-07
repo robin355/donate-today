@@ -68,8 +68,8 @@ body {
 }
 
 .box-2 {
-    background-color: tomato;
-    border: 5px solid tomato;
+    background-image: linear-gradient(rgb(250, 205, 123), rgb(247, 163, 148));
+    border: 2px solid tomato;
     border-radius: 5px;
 }
 
