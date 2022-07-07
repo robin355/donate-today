@@ -119,6 +119,13 @@ h5 {
     margin-left: -8px;
 }
 
+.video-add {
+    height: 600px;
+    width: 550px;
+    margin-left: 360px;
+    border: 3px solid black;
+}
+
 .text-input {
     color: gray;
     background-color: gainsboro;
@@ -128,6 +135,7 @@ h5 {
 
 
 }
+
 
 .input-area {
     width: 600px;
